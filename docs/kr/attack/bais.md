@@ -2,7 +2,7 @@
 #### BR( Basic Rate ) / EDR ( Enhanced Data Rate )
 	
 	스트리밍 오디오와 같은 유저케이스에 적합한 구현방법으로,   
-상대적으로 짧은 커버리지와 연속적인 무선 연결을 지원함
+	상대적으로 짧은 커버리지와 연속적인 무선 연결을 지원함
 
 출처: https://smartits.tistory.com/16 [Smart ITs]
 
